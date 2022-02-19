@@ -11,6 +11,4 @@ while True:
 		print('比答案大')
 	elif num < r:
 		print('比答案小')
-	else:
-		print('只能輸入數字')
 		
